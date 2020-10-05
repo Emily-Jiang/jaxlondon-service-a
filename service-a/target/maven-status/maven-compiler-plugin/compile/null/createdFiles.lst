@@ -1,0 +1,11 @@
+com/example/liberty/health/ServiceLiveHealthCheck.class
+com/example/liberty/health/ServiceReadyHealthCheck.class
+com/example/liberty/client/ClientController.class
+com/example/liberty/LibertyRestApplication.class
+com/example/liberty/client/Service.class
+com/example/liberty/metric/MetricController.class
+com/example/liberty/config/ConfigTestController.class
+com/example/liberty/resilient/ResilienceController.class
+com/example/liberty/secure/TestSecureController.class
+com/example/liberty/secure/MPJWTToken.class
+com/example/liberty/HelloController.class
